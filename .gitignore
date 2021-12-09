@@ -1,0 +1,7 @@
+Minimized*.java
+gradlew
+gradlew.bat
+build/
+.idea/
+.gradle/
+gradle/
